@@ -100,8 +100,8 @@
   ## 📫 &nbsp;My Contact
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablodsilva/)](https://www.linkedin.com/in/tamara-pucheta/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:tamii.pucheta1901@gmail.com)&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-Tamara_Pucheta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamara-pucheta/)](https://www.linkedin.com/in/tamara-pucheta/)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-tamii.pucheta1901@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:tamii.pucheta1901@gmail.com)&nbsp;
 
 </div>
 
