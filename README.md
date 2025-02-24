@@ -77,8 +77,9 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
 
   <p>IDES</p>
-  ![Eclipse](https://img.shields.io/badge/Eclipse-667881?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-  ![VisualStudio](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)&nbsp;
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse" />
+  </a>
 
 </div>
 
