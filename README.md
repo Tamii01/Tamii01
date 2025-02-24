@@ -62,7 +62,7 @@
 
   ## 🛠️ &nbsp;My Tech Stacks
 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+  ![Java](https://img.shields.io/badge/JAVA-%E2%80%A2-red)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
@@ -109,6 +109,3 @@
 
 
 ------
-Credits: [Pepyn0](https://github.com/Pepyn0)
-
-Last Edited on: 26/05/2022
