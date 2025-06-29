@@ -27,7 +27,7 @@
     
   - 💬 Ask me about **videogames**.
 
-  - 🌱 Currently working on a project with **React**, and **Typescript**.
+  - 🌱 Currently working on a project with **Java**.
 
   <br>
   
@@ -52,8 +52,6 @@
 
   - Figma
   - Java
-  - Clean architecture
-  - TDD
 
 </div>
 
